@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">BottomNavigationView</string>
+    <string name="app_name">BottomNavigation</string>
+    <string name="app_title">MyBottomNavy</string>
 </resources>
