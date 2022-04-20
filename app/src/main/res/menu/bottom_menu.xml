@@ -1,27 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
-<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
     <item
         android:title="@string/app_news"
         android:id="@+id/news"
         android:icon="@drawable/ic_news"
-        android:orderInCategory="100"
-        />
+        android:orderInCategory="100"/>
     <item
         android:title="@string/app_afisha"
         android:id="@+id/afisha"
         android:icon="@drawable/ic_afisha"
-        android:orderInCategory="200"
-        />
+        android:orderInCategory="200"/>
     <item
         android:title="@string/app_audio"
         android:id="@+id/audio"
         android:icon="@drawable/ic_audio"
-        android:orderInCategory="300"
-        />
+        android:orderInCategory="300"/>
     <item
         android:title="@string/app_map"
         android:id="@+id/map"
         android:icon="@drawable/ic_map"
-        android:orderInCategory="400"
-        />
+        android:orderInCategory="400"/>
 </menu>
