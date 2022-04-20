@@ -1,4 +1,8 @@
 <resources>
     <string name="app_name">BottomNavigation</string>
     <string name="app_title">MyBottomNavy</string>
+    <string name="app_news">News</string>
+    <string name="app_afisha">Afisha</string>
+    <string name="app_audio">Audio</string>
+    <string name="app_map">Map</string>
 </resources>
