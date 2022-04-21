@@ -10,7 +10,6 @@
         android:id="@+id/bnView"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
-        android:layout_marginBottom="8dp"
         app:backgroundTint="#FF9800"
         app:itemIconTint="@drawable/botton_nav_selector"
         app:itemTextColor="@color/white"
